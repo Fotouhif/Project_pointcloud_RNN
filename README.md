@@ -2,4 +2,4 @@
 
 This is the google colab project. 
 
-You can find the code in the /Point_Net code directory via google colab and see the requirments, explainations and results.
+You can find the code in the /PointNet_code directory via google colab and see the requirments, explainations and results.
