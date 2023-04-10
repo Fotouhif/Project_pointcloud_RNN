@@ -4,5 +4,5 @@ This project presents a method for classifiyng solids based on their point cloud
 
 You can find the code in the /PointNet_code directory via google colab and see the requirments, explainations and results there.
 
-This Medium helped me alot regarding implementing this project:
+This Medium helped me for implementing this project:
 https://towardsdatascience.com/deep-learning-on-point-clouds-implementing-pointnet-in-google-colab-1fd65cd3a263
